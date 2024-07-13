@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Papaya204
 - 👀 I’m interested in learning SQL and Jquery
 - 🌱 I’m currently learning MSsql, C#, and HTML
-- 💞️ I’m looking to collaborate on a mini project for showcasing purposes
+- 💞️ I’m looking to collaborate on a mini project for showcasing
 - 😄 Pronouns: They/them ~ He/Him
 - ⚡ Fun fact: Pools don't have a smell, the chemicals do
 
